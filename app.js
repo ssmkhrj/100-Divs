@@ -18,7 +18,7 @@ setInterval(() => {
     }
     addStyles(el);
   });
-}, 1500);
+}, 1600);
 
 function addStyles(el) {
   el.style.top = Math.random() * 100 + "%";
